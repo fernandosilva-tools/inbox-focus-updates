@@ -1,11 +1,9 @@
 {
-  "version": "0.1.61",
+  "version": "0.1.62",
   "published": "2026-11-09",
   "notes": [
-    "Notas: várias por email, cada uma com data",
-    "Escreves e carregas em Adicionar nota (ou Enter)",
-    "Cada nota pode ser editada ou apagada (com Desfazer)",
-    "A IA lê todas (a mais recente vale mais) e refaz o resumo, as tarefas e a resposta",
-    "A nota antiga passa a ser a primeira da lista"
+    "Datas: além de Tudo, Hoje e Ontem, há 7, 15 e 30 dias e Outro… (escreves o número de dias)",
+    "\"Só mais antigos\" mostra o contrário (o que está parado há mais desses dias)",
+    "Aviso quando o período vai além dos emails que a app leu"
   ]
 }
