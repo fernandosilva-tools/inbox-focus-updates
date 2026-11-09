@@ -1,9 +1,8 @@
 {
-  "version": "0.1.57",
+  "version": "0.1.58",
   "published": "2026-11-09",
   "notes": [
-    "Aviso de versão nova: a app verifica de 10 em 10 minutos (e ao voltar à janela) um ficheiro público só com o número da versão e as notas, mostra 'Nova versão' no topo com o que muda e o link para descarregar, e uma notificação do Windows uma vez por versão",
-    "Pode desligar-se nas Configurações",
-    "Publish.ps1 atualiza o latest.json no repositório público inbox-focus-updates"
+    "Clica no número da versão (no topo) para ver na hora se há versão nova: diz se estás na mais recente ou abre o que muda",
+    "O diálogo da versão nova fala em instalar, para não se confundir com o botão Atualizar dos emails"
   ]
 }
