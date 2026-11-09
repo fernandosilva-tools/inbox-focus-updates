@@ -1,8 +1,9 @@
 {
-  "version": "0.1.58",
+  "version": "0.1.59",
   "published": "2026-11-09",
   "notes": [
-    "Clica no número da versão (no topo) para ver na hora se há versão nova: diz se estás na mais recente ou abre o que muda",
-    "O diálogo da versão nova fala em instalar, para não se confundir com o botão Atualizar dos emails"
+    "Resumos da conversa toda, não só da última mensagem: de que trata, o que já foi dito e decidido por quem e o que falta",
+    "A IA recebe sempre a primeira mensagem da conversa (as do meio numa linha, as recentes completas)",
+    "Os resumos dos emails pendentes recentes são refeitos sozinhos"
   ]
 }
