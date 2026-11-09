@@ -1,9 +1,9 @@
 {
-  "version": "0.1.59",
+  "version": "0.1.60",
   "published": "2026-11-09",
   "notes": [
-    "Resumos da conversa toda, não só da última mensagem: de que trata, o que já foi dito e decidido por quem e o que falta",
-    "A IA recebe sempre a primeira mensagem da conversa (as do meio numa linha, as recentes completas)",
-    "Os resumos dos emails pendentes recentes são refeitos sozinhos"
+    "Filtro P1 a P4: clicar num nível mostra só esse (em vez de o esconder)",
+    "Clicar noutros junta-os, tirar o último volta a mostrar todos",
+    "Com todos visíveis as fichas ficam neutras"
   ]
 }
