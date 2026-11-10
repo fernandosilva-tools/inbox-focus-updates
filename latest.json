@@ -1,8 +1,9 @@
 {
-  "version": "0.1.74",
+  "version": "0.1.75",
   "published": "2026-11-10",
   "notes": [
-    "Um email aberto pela própria app (quando chega o resultado da ajuda, ou em Ver email nas Tarefas) carrega sempre a conversa toda e relê o texto (com as tabelas)",
-    "Antes ficava só a última mensagem"
+    "Um \"Obrigado.\" antes de uma tabela já não corta o resto do email: a tabela aparece toda na conversa e a IA lê-a",
+    "Ao abrir, os emails já guardados são relidos",
+    "Publicar uma versão fica mais rápido: as capturas do guia só se tiram de novo quando a interface muda, os dois instaladores são gerados ao mesmo tempo, e packaging/release.ps1 faz tudo numa ordem só"
   ]
 }
