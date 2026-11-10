@@ -1,9 +1,13 @@
 {
-  "version": "0.1.66",
+  "version": "0.1.67",
   "published": "2026-11-10",
   "notes": [
-    "Guia completo e apresentação (PDF), em português e inglês, com imagens de todas as funcionalidades: link no topo da Ajuda",
-    "Nos convites, o dia da semana aparece na língua da app",
-    "Ajuda das notas atualizada"
+    "Editar tarefas: botão ✎ em cada tarefa (Enter guarda, Esc cancela, com Desfazer)",
+    "Mantém o estado e o lugar na lista",
+    "Uma sugestão da IA que edites passa a ser tua e a IA deixa de sugerir a original",
+    "Pedir ajuda com todas nunca leva tarefas já feitas",
+    "Só existe o guia e a apresentação da versão mais recente (sem cópias por versão)",
+    "Publicar uma versão gera sempre um guia e uma apresentação novos (capturas novas da demo)",
+    "As capturas deixam de ficar no repositório"
   ]
 }
