@@ -1,8 +1,9 @@
 {
-  "version": "0.1.65",
+  "version": "0.1.66",
   "published": "2026-11-10",
   "notes": [
-    "Emails a que respondeste mas que estão em curso (tarefa em curso, ajuda do Cowork ou Em curso à mão) já não passam sozinhos para Respondidos: ficam em Em curso com a etiqueta Respondido até carregares em Feito",
-    "Versão nova: o botão Descarregar o instalador descarrega logo o ficheiro certo (demo ou normal), e se o GitHub mostrar 404 o diálogo explica que falta acesso ou sessão iniciada e o que fazer"
+    "Guia completo e apresentação (PDF), em português e inglês, com imagens de todas as funcionalidades: link no topo da Ajuda",
+    "Nos convites, o dia da semana aparece na língua da app",
+    "Ajuda das notas atualizada"
   ]
 }
