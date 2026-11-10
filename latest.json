@@ -1,9 +1,9 @@
 {
-  "version": "0.1.71",
+  "version": "0.1.72",
   "published": "2026-11-10",
   "notes": [
-    "As tuas respostas contam no resumo, nas tarefas e na resposta sugerida, também as que enviaste depois do último email recebido",
-    "Quando respondes, o Atualizar seguinte refaz-os (o que já respondeste deixa de ser tarefa e a sugestão passa a ser um seguimento)",
-    "Guião do vídeo de demonstração (PT-PT e EN), por gravar"
+    "Responder já não fecha o email: fica nos Pendentes, em Respondidos (e Em curso), até carregares em Feito ou Ignorar",
+    "O À espera passa para dentro dos Respondidos",
+    "Nos Fechados há outro Respondidos com os que respondeste e depois fechaste"
   ]
 }
