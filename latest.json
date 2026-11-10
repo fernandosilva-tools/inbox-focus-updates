@@ -1,10 +1,8 @@
 {
-  "version": "0.1.64",
+  "version": "0.1.65",
   "published": "2026-11-10",
   "notes": [
-    "Pedir ajuda com todas as tarefas: botão no cabeçalho das Tarefas (com 2 ou mais por fazer) que abre o Cowork com a lista numerada",
-    "Podes tirar linhas antes de enviar",
-    "O Claude trata uma de cada vez e diz o que ficou feito em cada uma",
-    "Os pedidos de uma só tarefa levam as outras como contexto"
+    "Emails a que respondeste mas que estão em curso (tarefa em curso, ajuda do Cowork ou Em curso à mão) já não passam sozinhos para Respondidos: ficam em Em curso com a etiqueta Respondido até carregares em Feito",
+    "Versão nova: o botão Descarregar o instalador descarrega logo o ficheiro certo (demo ou normal), e se o GitHub mostrar 404 o diálogo explica que falta acesso ou sessão iniciada e o que fazer"
   ]
 }
