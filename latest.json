@@ -1,9 +1,10 @@
 {
-  "version": "0.1.63",
+  "version": "0.1.64",
   "published": "2026-11-10",
   "notes": [
-    "Pedir ajuda ao Claude volta a abrir o Cowork com a app Claude da Microsoft Store (antes dizia que não estava instalada)",
-    "Se não abrir, diz para abrires a app Claude uma vez e tentares de novo",
-    "Testes: o teste do Histórico que falhava de vez em quando deixa de falhar (efeitos adiados de um teste já não correm na base de dados do teste seguinte)"
+    "Pedir ajuda com todas as tarefas: botão no cabeçalho das Tarefas (com 2 ou mais por fazer) que abre o Cowork com a lista numerada",
+    "Podes tirar linhas antes de enviar",
+    "O Claude trata uma de cada vez e diz o que ficou feito em cada uma",
+    "Os pedidos de uma só tarefa levam as outras como contexto"
   ]
 }
