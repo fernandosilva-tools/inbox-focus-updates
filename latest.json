@@ -1,9 +1,8 @@
 {
-  "version": "0.1.72",
+  "version": "0.1.73",
   "published": "2026-11-10",
   "notes": [
-    "Responder já não fecha o email: fica nos Pendentes, em Respondidos (e Em curso), até carregares em Feito ou Ignorar",
-    "O À espera passa para dentro dos Respondidos",
-    "Nos Fechados há outro Respondidos com os que respondeste e depois fechaste"
+    "As tabelas dos emails aparecem como tabelas na conversa (antes cada célula ficava numa linha), e a IA lê-as linha a linha",
+    "Ao abrir um email antigo, o texto é relido com as tabelas"
   ]
 }
