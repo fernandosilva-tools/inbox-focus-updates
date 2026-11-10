@@ -1,12 +1,9 @@
 {
-  "version": "0.1.70",
+  "version": "0.1.71",
   "published": "2026-11-10",
   "notes": [
-    "Guia, apresentação e Ajuda falam de \"IA\" onde vale para qualquer IA (ajuda pedida, Em curso, Respondidos)",
-    "Claude só onde é mesmo do Claude (Cowork, Claude Code)",
-    "Escolhe a IA que queres usar: Claude, ChatGPT/OpenAI, Azure OpenAI, Gemini ou um modelo local (Ollama), no assistente da primeira utilização ou em Configurações → IA",
-    "A app pede só o que essa IA precisa, diz onde se arranja, guarda as chaves no Windows (nunca na configuração), tem um botão Testar e avisa que os emails vão para a IA escolhida",
-    "Com outra IA, Pedir ajuda copia o pedido, abre o site da IA e no fim colas o resultado no email",
-    "O código da demo passa a estar guardado no repositório (estava a ser ignorado por engano)"
+    "As tuas respostas contam no resumo, nas tarefas e na resposta sugerida, também as que enviaste depois do último email recebido",
+    "Quando respondes, o Atualizar seguinte refaz-os (o que já respondeste deixa de ser tarefa e a sugestão passa a ser um seguimento)",
+    "Guião do vídeo de demonstração (PT-PT e EN), por gravar"
   ]
 }
