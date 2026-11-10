@@ -1,0 +1,25 @@
+<!doctype html><html lang="pt"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Inbox Focus</title><link rel="icon" href="favicon.svg">
+<script>try { if (!/^pt/i.test(navigator.language)) location.replace("en/"); else location.replace("pt/"); } catch (e) {}</script>
+<style>
+:root {
+  --bg: #0b0f16; --bg2: #101622; --card: #151c29; --line: #263044; --fg: #e9eef7; --muted: #9aa7bb;
+  --accent: #6d9bff; --accent2: #9b7bff; --p1: #f05d5e; --p2: #f5a03a; --p3: #5b9cf5; --p4: #8a94a6; --ok: #3ccf8e;
+}
+ body { margin: 0; min-height: 100vh; display: grid; place-items: center; background: var(--bg); color: var(--fg);
+ font: 16px "Segoe UI", system-ui, sans-serif; } a { color: var(--accent); margin: 0 10px; } svg { width: 64px; height: 64px; }</style></head>
+<body><div style="text-align:center"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3b6ff0"/>
+      <stop offset="1" stop-color="#1d46b8"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="url(#bg)"/>
+  <!-- envelope -->
+  <rect x="12" y="20" width="40" height="28" rx="4" fill="#fff"/>
+  <path d="M13 22 L32 37 L51 22" fill="none" stroke="#1d46b8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- foco: ponto laranja -->
+  <circle cx="49" cy="17" r="9" fill="#ff8a1f" stroke="#1d46b8" stroke-width="3"/>
+</svg>
+<h1>Inbox Focus</h1><p><a href="pt/">Português</a> · <a href="en/">English</a></p></div></body></html>
