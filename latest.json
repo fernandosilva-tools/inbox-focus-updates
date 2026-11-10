@@ -1,13 +1,9 @@
 {
-  "version": "0.1.67",
+  "version": "0.1.68",
   "published": "2026-11-10",
   "notes": [
-    "Editar tarefas: botão ✎ em cada tarefa (Enter guarda, Esc cancela, com Desfazer)",
-    "Mantém o estado e o lugar na lista",
-    "Uma sugestão da IA que edites passa a ser tua e a IA deixa de sugerir a original",
-    "Pedir ajuda com todas nunca leva tarefas já feitas",
-    "Só existe o guia e a apresentação da versão mais recente (sem cópias por versão)",
-    "Publicar uma versão gera sempre um guia e uma apresentação novos (capturas novas da demo)",
-    "As capturas deixam de ficar no repositório"
+    "A IA usa sempre o Claude Code (a tua conta Claude) quando está instalado, mesmo que exista uma chave ANTHROPIC_API_KEY no Windows",
+    "A chave da API só é usada se não houver Claude Code",
+    "Nas configurações avançadas, uma frase diz qual está a ser usado"
   ]
 }
