@@ -1,8 +1,8 @@
 {
-  "version": "0.1.73",
+  "version": "0.1.74",
   "published": "2026-11-10",
   "notes": [
-    "As tabelas dos emails aparecem como tabelas na conversa (antes cada célula ficava numa linha), e a IA lê-as linha a linha",
-    "Ao abrir um email antigo, o texto é relido com as tabelas"
+    "Um email aberto pela própria app (quando chega o resultado da ajuda, ou em Ver email nas Tarefas) carrega sempre a conversa toda e relê o texto (com as tabelas)",
+    "Antes ficava só a última mensagem"
   ]
 }
