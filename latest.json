@@ -1,9 +1,9 @@
 {
-  "version": "0.1.62",
-  "published": "2026-11-09",
+  "version": "0.1.63",
+  "published": "2026-11-10",
   "notes": [
-    "Datas: além de Tudo, Hoje e Ontem, há 7, 15 e 30 dias e Outro… (escreves o número de dias)",
-    "\"Só mais antigos\" mostra o contrário (o que está parado há mais desses dias)",
-    "Aviso quando o período vai além dos emails que a app leu"
+    "Pedir ajuda ao Claude volta a abrir o Cowork com a app Claude da Microsoft Store (antes dizia que não estava instalada)",
+    "Se não abrir, diz para abrires a app Claude uma vez e tentares de novo",
+    "Testes: o teste do Histórico que falhava de vez em quando deixa de falhar (efeitos adiados de um teste já não correm na base de dados do teste seguinte)"
   ]
 }
