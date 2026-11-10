@@ -1,9 +1,9 @@
 {
-  "version": "0.1.68",
+  "version": "0.1.69",
   "published": "2026-11-10",
   "notes": [
-    "A IA usa sempre o Claude Code (a tua conta Claude) quando está instalado, mesmo que exista uma chave ANTHROPIC_API_KEY no Windows",
-    "A chave da API só é usada se não houver Claude Code",
-    "Nas configurações avançadas, uma frase diz qual está a ser usado"
+    "Ligação ao Microsoft 365 (Graph) preparada para tudo o que funciona com o Outlook: convites reconhecidos (data, local, organizador",
+    "Resposta e conflitos com a permissão de calendário), Aceitar/Recusar abrem o convite no Outlook na web, rascunhos com a tua assinatura do Outlook (com logótipo)",
+    "Ajuda, guia e apresentação explicam as diferenças entre Outlook e Graph"
   ]
 }
