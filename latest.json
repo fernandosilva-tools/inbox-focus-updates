@@ -1,9 +1,8 @@
 {
-  "version": "0.1.79",
+  "version": "0.1.80",
   "published": "2026-11-11",
   "notes": [
-    "Emails reencaminhados (Fw:, Enc:) mostram as mensagens reencaminhadas e a IA lê-as",
-    "Antes só ficava o texto de quem reencaminhou (ex.: \"FYI\")",
-    "Ao abrir, os já guardados são relidos"
+    "Texto dos emails mais fiel: o que o Outlook parte em linhas no código já não corta frases (ex.: \"Thank you @Pankaj\" deixava de aparecer) nem deixa restos do aviso CAUTION (\"SAFE.\"), e um \"Thank you!\" seguido de perguntas já não é tomado por assinatura",
+    "Na conversa só a última mensagem vem aberta e as anteriores ficam num botão no topo"
   ]
 }
