@@ -1,7 +1,7 @@
 {
-  "version": "0.1.76",
-  "published": "2026-11-10",
+  "version": "0.1.77",
+  "published": "2026-11-11",
   "notes": [
-    "Tabelas na resposta: linhas \"| a | b |\" passam a uma tabela de email com bordas no rascunho e ao Copiar, e a IA escreve tabelas neste formato quando lhe pedes"
+    "A conversa de um email aberto atualiza-se quando chegam ou sais mensagens novas (antes ficava a versão carregada antes, com menos mensagens do que o número indicado)"
   ]
 }
