@@ -1,7 +1,9 @@
 {
-  "version": "0.1.78",
+  "version": "0.1.79",
   "published": "2026-11-11",
   "notes": [
-    "No email aberto, a resposta sugerida estica até ao fundo da coluna da direita: as duas colunas acabam à mesma altura e há mais espaço para escrever"
+    "Emails reencaminhados (Fw:, Enc:) mostram as mensagens reencaminhadas e a IA lê-as",
+    "Antes só ficava o texto de quem reencaminhou (ex.: \"FYI\")",
+    "Ao abrir, os já guardados são relidos"
   ]
 }
