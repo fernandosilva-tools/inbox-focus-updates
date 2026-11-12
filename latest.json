@@ -1,8 +1,8 @@
 {
-  "version": "0.1.80",
-  "published": "2026-11-11",
+  "version": "0.1.81",
+  "published": "2026-11-12",
   "notes": [
-    "Texto dos emails mais fiel: o que o Outlook parte em linhas no código já não corta frases (ex.: \"Thank you @Pankaj\" deixava de aparecer) nem deixa restos do aviso CAUTION (\"SAFE.\"), e um \"Thank you!\" seguido de perguntas já não é tomado por assinatura",
-    "Na conversa só a última mensagem vem aberta e as anteriores ficam num botão no topo"
+    "Claude Code: uma chave ANTHROPIC_API_KEY antiga ou inválida nas variáveis do Windows já não o faz falhar com \"Invalid API key\"",
+    "A app usa sempre a tua conta Claude"
   ]
 }
