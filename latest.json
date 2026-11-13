@@ -1,8 +1,7 @@
 {
-  "version": "0.1.81",
-  "published": "2026-11-12",
+  "version": "0.1.82",
+  "published": "2026-11-13",
   "notes": [
-    "Claude Code: uma chave ANTHROPIC_API_KEY antiga ou inválida nas variáveis do Windows já não o faz falhar com \"Invalid API key\"",
-    "A app usa sempre a tua conta Claude"
+    "Num email a que já respondeste não aparece uma resposta sugerida (era quase o que enviaste): fica um aviso com a data da tua resposta, Preparar seguimento (a IA escreve um lembrete curto) e Mostrar a última sugestão"
   ]
 }
