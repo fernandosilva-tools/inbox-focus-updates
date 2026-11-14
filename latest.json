@@ -1,7 +1,7 @@
 {
-  "version": "0.1.82",
-  "published": "2026-11-13",
+  "version": "0.1.83",
+  "published": "2026-11-14",
   "notes": [
-    "Num email a que já respondeste não aparece uma resposta sugerida (era quase o que enviaste): fica um aviso com a data da tua resposta, Preparar seguimento (a IA escreve um lembrete curto) e Mostrar a última sugestão"
+    "Criar rascunho põe o email em curso logo, sem esperar pelo Atualizar"
   ]
 }
