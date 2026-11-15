@@ -1,7 +1,7 @@
 {
-  "version": "0.1.84",
+  "version": "0.1.85",
   "published": "2026-11-15",
   "notes": [
-    "O botão Em curso mostra sempre o estado real: Em curso ✓ também quando o email está em curso por outro motivo (rascunho, tarefas, ajuda, já respondeste), com o motivo ao passar o rato"
+    "Preparar seguimento e Regenerar já funcionam em emails a que respondeste antes da primeira análise: a app vai buscar o último email recebido na hora, em vez de pedir para correr Atualizar (que não resolvia)"
   ]
 }
