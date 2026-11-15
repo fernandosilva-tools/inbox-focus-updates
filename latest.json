@@ -1,7 +1,8 @@
 {
-  "version": "0.1.85",
+  "version": "0.1.86",
   "published": "2026-11-15",
   "notes": [
-    "Preparar seguimento e Regenerar já funcionam em emails a que respondeste antes da primeira análise: a app vai buscar o último email recebido na hora, em vez de pedir para correr Atualizar (que não resolvia)"
+    "Ao adicionar uma nota, o email aberto mostra logo a análise refeita (resumo, tarefas e resposta) mesmo com o cursor na caixa de nota, sem perder o que estás a escrever",
+    "Ajuda com link para o vídeo de demonstração (3 minutos, narrado e com legendas): como instalar e como usar a app"
   ]
 }
