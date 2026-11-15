@@ -1,7 +1,7 @@
 {
-  "version": "0.1.83",
-  "published": "2026-11-14",
+  "version": "0.1.84",
+  "published": "2026-11-15",
   "notes": [
-    "Criar rascunho põe o email em curso logo, sem esperar pelo Atualizar"
+    "O botão Em curso mostra sempre o estado real: Em curso ✓ também quando o email está em curso por outro motivo (rascunho, tarefas, ajuda, já respondeste), com o motivo ao passar o rato"
   ]
 }
