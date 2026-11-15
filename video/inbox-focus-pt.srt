@@ -1,0 +1,183 @@
+1
+00:00:00,600 --> 00:00:05,387
+Isto é o Inbox Focus: o teu email por ordem de importância.
+
+2
+00:00:05,337 --> 00:00:10,637
+Mostra primeiro o que precisa de ti, resume as conversas e prepara a resposta.
+
+3
+00:00:10,637 --> 00:00:14,212
+Vamos ver como se instala e como se usa.
+
+4
+00:00:15,530 --> 00:00:19,992
+Começa por descarregar o instalador da página de versões.
+
+5
+00:00:19,942 --> 00:00:23,963
+Há a versão normal e a versão demo, com dados fictícios,
+
+6
+00:00:23,963 --> 00:00:26,117
+para experimentar sem Outlook.
+
+7
+00:00:27,430 --> 00:00:29,655
+Corre o instalador.
+
+8
+00:00:29,605 --> 00:00:35,780
+Se o Windows mostrar um aviso, escolhe "Mais informações" e "Executar mesmo assim".
+
+9
+00:00:35,780 --> 00:00:40,242
+Instalar por cima de uma versão antiga mantém os teus dados.
+
+10
+00:00:41,530 --> 00:00:44,294
+Na primeira vez, a app pede o teu nome,
+
+11
+00:00:44,294 --> 00:00:47,555
+a assinatura e quantos dias de email analisar.
+
+12
+00:00:47,505 --> 00:00:54,530
+Escolhes também a IA: Claude, ChatGPT, Azure OpenAI, Gemini ou um modelo local.
+
+13
+00:00:54,530 --> 00:00:57,867
+O botão Testar confirma que está tudo bem.
+
+14
+00:00:59,160 --> 00:01:04,310
+Cada conversa tem um nível, de P1, urgente, a P4.
+
+15
+00:01:04,260 --> 00:01:09,208
+As regras são claras: pedidos diretos, prazos, clientes externos,
+
+16
+00:01:09,208 --> 00:01:11,035
+há quanto tempo esperam.
+
+17
+00:01:12,360 --> 00:01:15,135
+E a app explica sempre porquê.
+
+18
+00:01:15,085 --> 00:01:19,060
+Se não concordares, mudas o nível com um clique.
+
+19
+00:01:20,390 --> 00:01:24,277
+Ao abrir um email, tens o resumo da conversa toda.
+
+20
+00:01:24,227 --> 00:01:29,290
+Só a última mensagem vem aberta, e as anteriores ficam a um clique.
+
+21
+00:01:29,290 --> 00:01:34,840
+Tabelas e emails reencaminhados aparecem como no Outlook, e a IA lê-os.
+
+22
+00:01:36,160 --> 00:01:40,022
+A resposta já vem escrita, na língua do email.
+
+23
+00:01:39,972 --> 00:01:44,461
+Pedes alterações por palavras, como "mais curto" ou "põe numa tabela",
+
+24
+00:01:44,461 --> 00:01:46,385
+e crias o rascunho no Outlook.
+
+25
+00:01:46,385 --> 00:01:49,297
+O email passa logo a Em curso.
+
+26
+00:01:49,297 --> 00:01:51,797
+És sempre tu que envias.
+
+27
+00:01:53,090 --> 00:01:56,285
+Depois de responderes, o email não desaparece:
+
+28
+00:01:56,285 --> 00:01:59,202
+fica em Respondidos até o dares por feito.
+
+29
+00:01:59,152 --> 00:02:03,427
+A app mostra quando respondeste e, se a outra pessoa não disser nada,
+
+30
+00:02:03,427 --> 00:02:06,277
+Preparar seguimento escreve um lembrete curto.
+
+31
+00:02:07,590 --> 00:02:10,815
+A IA tira as tarefas da conversa.
+
+32
+00:02:10,765 --> 00:02:15,190
+Acrescentas as tuas, editas, começas ou marcas como feitas,
+
+33
+00:02:15,190 --> 00:02:18,115
+e a resposta acompanha o teu progresso.
+
+34
+00:02:19,420 --> 00:02:22,854
+Para o trabalho de investigação, pede ajuda à IA:
+
+35
+00:02:22,854 --> 00:02:25,307
+numa tarefa ou em todas de uma vez.
+
+36
+00:02:25,257 --> 00:02:30,720
+Com o Claude, o Cowork trata do pedido e o resultado volta sozinho para a app.
+
+37
+00:02:32,020 --> 00:02:35,197
+Notas como "falado por telefone" ficam no email,
+
+38
+00:02:35,197 --> 00:02:38,970
+e a IA tem-nas em conta ao refazer o resumo e a resposta.
+
+39
+00:02:40,850 --> 00:02:46,587
+Os convites têm vista própria, com data, local e conflitos no calendário.
+
+40
+00:02:46,537 --> 00:02:50,462
+Aceitar ou recusar abre a resposta no Outlook.
+
+41
+00:02:51,780 --> 00:02:56,730
+Quando acabas, carrega em Feito ou Ignorar, ou arquiva numa pasta.
+
+42
+00:02:56,680 --> 00:02:58,592
+Enganaste-te?
+
+43
+00:02:58,592 --> 00:03:02,905
+Tudo tem Desfazer, e o Histórico guarda as alterações.
+
+44
+00:03:04,210 --> 00:03:09,910
+Newsletters e notificações automáticas vão para o Ruído, longe do que importa.
+
+45
+00:03:11,180 --> 00:03:16,880
+O Inbox Focus nunca envia nem apaga emails, e os teus dados ficam no teu PC.
+
+46
+00:03:16,830 --> 00:03:21,255
+Menos tempo na caixa de entrada, mais tempo no que importa.

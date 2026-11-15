@@ -1,0 +1,183 @@
+1
+00:00:00,550 --> 00:00:04,925
+This is Inbox Focus: your email, in order of importance.
+
+2
+00:00:04,925 --> 00:00:10,037
+It shows first what needs you, summarises conversations and drafts the reply.
+
+3
+00:00:10,037 --> 00:00:12,412
+Let's see how to install it and how to use it.
+
+4
+00:00:13,750 --> 00:00:17,075
+Start by downloading the installer from the releases page.
+
+5
+00:00:17,075 --> 00:00:20,911
+There's the regular version and a demo version with fictional data,
+
+6
+00:00:20,911 --> 00:00:22,400
+to try it without Outlook.
+
+7
+00:00:23,720 --> 00:00:24,895
+Run the installer.
+
+8
+00:00:24,895 --> 00:00:29,357
+If Windows shows a warning, choose "More info" and "Run anyway".
+
+9
+00:00:29,357 --> 00:00:32,395
+Installing over an older version keeps your data.
+
+10
+00:00:33,720 --> 00:00:36,508
+The first time, the app asks for your name,
+
+11
+00:00:36,508 --> 00:00:39,620
+signature and how many days of email to analyse.
+
+12
+00:00:39,620 --> 00:00:46,620
+You also pick the AI: Claude, ChatGPT, Azure OpenAI, Gemini or a local model.
+
+13
+00:00:46,620 --> 00:00:48,520
+The Test button checks it works.
+
+14
+00:00:49,820 --> 00:00:54,620
+Each conversation gets a level, from P1, urgent, to P4.
+
+15
+00:00:54,620 --> 00:00:59,078
+The rules are clear: direct requests, deadlines, external customers,
+
+16
+00:00:59,078 --> 00:01:01,045
+how long they've been waiting.
+
+17
+00:01:02,350 --> 00:01:04,312
+And the app always explains why.
+
+18
+00:01:04,312 --> 00:01:07,300
+If you disagree, change the level with one click.
+
+19
+00:01:08,780 --> 00:01:12,117
+Open an email and you get a summary of the whole conversation.
+
+20
+00:01:12,117 --> 00:01:16,180
+Only the latest message is open, the earlier ones are one click away.
+
+21
+00:01:16,180 --> 00:01:20,892
+Tables and forwarded emails show up as in Outlook, and the AI reads them.
+
+22
+00:01:23,450 --> 00:01:26,900
+The reply is already written, in the email's language.
+
+23
+00:01:26,900 --> 00:01:31,567
+Ask for changes in plain words, like "shorter" or "put it in a table",
+
+24
+00:01:31,567 --> 00:01:33,700
+and create the draft in Outlook.
+
+25
+00:01:33,700 --> 00:01:36,262
+The email moves to In progress right away.
+
+26
+00:01:36,262 --> 00:01:37,850
+You always send it yourself.
+
+27
+00:01:39,180 --> 00:01:41,986
+Once you reply, the email doesn't disappear:
+
+28
+00:01:41,986 --> 00:01:44,792
+it stays in Answered until you mark it done.
+
+29
+00:01:44,792 --> 00:01:48,880
+The app shows when you replied and, if the other person goes quiet,
+
+30
+00:01:48,880 --> 00:01:51,442
+Prepare follow-up writes a short reminder.
+
+31
+00:01:52,750 --> 00:01:55,800
+The AI pulls the tasks out of the conversation.
+
+32
+00:01:55,800 --> 00:01:59,078
+Add your own, edit them, start them or tick them off,
+
+33
+00:01:59,078 --> 00:02:01,675
+and the reply keeps up with your progress.
+
+34
+00:02:02,980 --> 00:02:08,430
+For the legwork, ask the AI for help: on one task or all of them at once.
+
+35
+00:02:08,430 --> 00:02:09,177
+With Claude,
+
+36
+00:02:09,177 --> 00:02:13,780
+Cowork handles the request and the result comes back to the app by itself.
+
+37
+00:02:15,110 --> 00:02:18,462
+Notes like "discussed on the phone" stay with the email,
+
+38
+00:02:18,462 --> 00:02:23,010
+and the AI takes them into account when it redoes the summary and the reply.
+
+39
+00:02:24,340 --> 00:02:29,315
+Invites have their own view, with date, location and calendar conflicts.
+
+40
+00:02:29,315 --> 00:02:32,702
+Accept or decline opens the response in Outlook.
+
+41
+00:02:34,010 --> 00:02:38,272
+When you're done, press Done or Ignore, or archive to a folder.
+
+42
+00:02:38,272 --> 00:02:39,335
+Made a mistake?
+
+43
+00:02:39,335 --> 00:02:42,997
+Everything can be undone, and History keeps your changes.
+
+44
+00:02:44,310 --> 00:02:49,210
+Newsletters and automatic notifications go to Noise, away from what matters.
+
+45
+00:02:50,540 --> 00:02:55,390
+Inbox Focus never sends or deletes emails, and your data stays on your PC.
+
+46
+00:02:55,390 --> 00:02:58,602
+Less time in the inbox, more time on what matters.
