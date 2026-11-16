@@ -1,8 +1,8 @@
 {
-  "version": "0.1.88",
+  "version": "0.1.89",
   "published": "2026-11-16",
   "notes": [
-    "Cores mais legíveis nos dois temas: o menu de nível já não fica vermelho sobre rosa, os contadores P1 a P4 e os botões cheios têm texto legível no tema escuro e as etiquetas coloridas no tema claro ficam mais nítidas"
+    "Lido no Outlook chega sempre à app: conversas marcadas como feitas e reabertas por um email novo deixavam de confirmar o estado de leitura e ficavam como não lidas"
   ],
   "engine": "1629578ad65f"
 }
