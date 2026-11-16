@@ -1,8 +1,7 @@
 {
-  "version": "0.1.86",
-  "published": "2026-11-15",
+  "version": "0.1.87",
+  "published": "2026-11-16",
   "notes": [
-    "Ao adicionar uma nota, o email aberto mostra logo a análise refeita (resumo, tarefas e resposta) mesmo com o cursor na caixa de nota, sem perder o que estás a escrever",
-    "Ajuda com link para o vídeo de demonstração (3 minutos, narrado e com legendas): como instalar e como usar a app"
+    "Os emails respondidos à espera de resposta passam a ter as mesmas ações rápidas que os outros pendentes (nível, Lido, Spam, Arquivar) sem ser preciso expandir"
   ]
 }
