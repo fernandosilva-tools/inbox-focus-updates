@@ -1,7 +1,8 @@
 {
-  "version": "0.1.87",
+  "version": "0.1.88",
   "published": "2026-11-16",
   "notes": [
-    "Os emails respondidos à espera de resposta passam a ter as mesmas ações rápidas que os outros pendentes (nível, Lido, Spam, Arquivar) sem ser preciso expandir"
-  ]
+    "Cores mais legíveis nos dois temas: o menu de nível já não fica vermelho sobre rosa, os contadores P1 a P4 e os botões cheios têm texto legível no tema escuro e as etiquetas coloridas no tema claro ficam mais nítidas"
+  ],
+  "engine": "1629578ad65f"
 }
