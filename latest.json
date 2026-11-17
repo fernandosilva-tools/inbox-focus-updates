@@ -1,9 +1,8 @@
 {
-  "version": "0.1.90",
+  "version": "0.1.91",
   "published": "2026-11-17",
   "notes": [
-    "Emails com formatação especial para o Outlook (ex.: newsletters e anúncios) já não mostram código como [if mso] no corpo",
-    "Ao abrir, o texto é lido outra vez"
+    "Não lidos batem com o Outlook: uma conversa conta como não lida se algum email recebido estiver por ler (não só o último), e cada atualização confirma esses emails no Outlook"
   ],
   "engine": "d046bcf322d5"
 }
