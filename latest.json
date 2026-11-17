@@ -1,8 +1,9 @@
 {
-  "version": "0.1.89",
-  "published": "2026-11-16",
+  "version": "0.1.90",
+  "published": "2026-11-17",
   "notes": [
-    "Lido no Outlook chega sempre à app: conversas marcadas como feitas e reabertas por um email novo deixavam de confirmar o estado de leitura e ficavam como não lidas"
+    "Emails com formatação especial para o Outlook (ex.: newsletters e anúncios) já não mostram código como [if mso] no corpo",
+    "Ao abrir, o texto é lido outra vez"
   ],
-  "engine": "1629578ad65f"
+  "engine": "d046bcf322d5"
 }
