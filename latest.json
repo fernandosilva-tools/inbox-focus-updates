@@ -1,9 +1,8 @@
 {
-  "version": "0.1.94",
+  "version": "0.1.95",
   "published": "2026-11-17",
   "notes": [
-    "Tarefas que começaste ou fizeste nunca desaparecem da lista, mesmo quando a IA refaz as sugestões",
-    "Antes podiam sumir e continuar em curso, e a resposta sugerida dizia que ainda estavas a tratar delas"
+    "Não lidos certos em todas as vistas: os Feitos, os Convites fechados e o Ruído também acompanham o lido do Outlook, e conversas que tinham ficado por ler de versões anteriores passam a lidas"
   ],
   "engine": "d046bcf322d5"
 }
