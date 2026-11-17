@@ -1,10 +1,8 @@
 {
-  "version": "0.1.92",
+  "version": "0.1.93",
   "published": "2026-11-17",
   "notes": [
-    "Follow-up: marca um email com a bandeira de follow-up do Outlook (Hoje, Amanhã, Esta semana, Próxima semana ou Sem data) na linha ou ao abrir",
-    "As bandeiras postas no Outlook também aparecem, com a data como prazo, numa vista Follow-up nos Pendentes",
-    "Feito conclui a bandeira no Outlook"
+    "Não lidos certos outra vez: as cópias da pasta Problemas de sincronização (Sync Issues) do Outlook deixam de contar, e cada atualização confirma no Outlook todos os emails por ler (não só 150), por isso emails antigos já lidos deixam de aparecer como não lidos"
   ],
   "engine": "d046bcf322d5"
 }
