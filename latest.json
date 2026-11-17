@@ -1,8 +1,12 @@
 {
-  "version": "0.1.95",
+  "version": "0.1.96",
   "published": "2026-11-17",
   "notes": [
-    "Não lidos certos em todas as vistas: os Feitos, os Convites fechados e o Ruído também acompanham o lido do Outlook, e conversas que tinham ficado por ler de versões anteriores passam a lidas"
+    "Resumo do último email em destaque: numa conversa com vários emails, a linha mostra o que diz o último email recebido e, ao abrir, o resumo da conversa fica por baixo",
+    "O que já foi lido fica guardado se a análise parar a meio (Cancelar ou erro)",
+    "Com a fonte Microsoft 365, os anexos abrem no Outlook na web",
+    "Mensagens de progresso traduzidas em inglês",
+    "O número de P1 no ícone do separador já não impede a lista de carregar"
   ],
-  "engine": "d046bcf322d5"
+  "engine": "6f03ebf2dd7a"
 }
