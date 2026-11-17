@@ -1,8 +1,9 @@
 {
-  "version": "0.1.93",
+  "version": "0.1.94",
   "published": "2026-11-17",
   "notes": [
-    "Não lidos certos outra vez: as cópias da pasta Problemas de sincronização (Sync Issues) do Outlook deixam de contar, e cada atualização confirma no Outlook todos os emails por ler (não só 150), por isso emails antigos já lidos deixam de aparecer como não lidos"
+    "Tarefas que começaste ou fizeste nunca desaparecem da lista, mesmo quando a IA refaz as sugestões",
+    "Antes podiam sumir e continuar em curso, e a resposta sugerida dizia que ainda estavas a tratar delas"
   ],
   "engine": "d046bcf322d5"
 }
