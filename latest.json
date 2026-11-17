@@ -1,8 +1,10 @@
 {
-  "version": "0.1.91",
+  "version": "0.1.92",
   "published": "2026-11-17",
   "notes": [
-    "Não lidos batem com o Outlook: uma conversa conta como não lida se algum email recebido estiver por ler (não só o último), e cada atualização confirma esses emails no Outlook"
+    "Follow-up: marca um email com a bandeira de follow-up do Outlook (Hoje, Amanhã, Esta semana, Próxima semana ou Sem data) na linha ou ao abrir",
+    "As bandeiras postas no Outlook também aparecem, com a data como prazo, numa vista Follow-up nos Pendentes",
+    "Feito conclui a bandeira no Outlook"
   ],
   "engine": "d046bcf322d5"
 }
