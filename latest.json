@@ -1,10 +1,9 @@
 {
-  "version": "0.2.3",
+  "version": "0.2.4",
   "published": "2026-11-18",
   "notes": [
-    "Os emails das pastas excluídas passam a aparecer em Ignorados e em Todos, com a etiqueta Ignorado · pasta, sem IA",
-    "Contam nos não lidos como no Outlook",
-    "Não ignorar passa a conversa a pendente"
+    "Um cancelamento de reunião marcado como Não é ruído passa mesmo a pendente",
+    "+ Nota junta o pedido que escreveste como etiqueta Por aplicar, e o Regenerar aplica todos de uma vez"
   ],
   "engine": "e3022b26dd38"
 }
