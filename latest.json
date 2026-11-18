@@ -1,9 +1,10 @@
 {
-  "version": "0.2.1",
+  "version": "0.2.2",
   "published": "2026-11-18",
   "notes": [
-    "Nos pendentes, a etiqueta à direita diz em que ponto estão: Em curso, Respondido ou À espera de resposta, cada um com a sua cor",
-    "Nos pendentes, a etiqueta à direita diz em que ponto estão: Em curso, Respondido ou À espera de resposta (cada um com a sua cor), e deixa de repetir isso nas marcas da linha"
+    "Todos passa a mostrar mesmo tudo, incluindo o Ruído, cada email com a etiqueta do que é",
+    "Todos passa a mostrar mesmo tudo, incluindo o Ruído (cada email com a etiqueta do que é)",
+    "A vista Ruído continua à parte"
   ],
   "engine": "e3022b26dd38"
 }
