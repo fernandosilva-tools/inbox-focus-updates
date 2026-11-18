@@ -1,8 +1,8 @@
 {
-  "version": "0.2.5",
+  "version": "0.2.6",
   "published": "2026-11-18",
   "notes": [
-    "Nos cancelamentos de reunião há o botão Remover do calendário: tira a reunião do teu calendário sem enviar nada e marca como feito"
+    "Os convites e os cancelamentos de reunião têm um ícone de calendário por baixo da prioridade: azul por responder, cinzento já tratados, com um × se foram cancelados"
   ],
   "engine": "e3022b26dd38"
 }
