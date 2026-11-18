@@ -1,10 +1,10 @@
 {
-  "version": "0.2.2",
+  "version": "0.2.3",
   "published": "2026-11-18",
   "notes": [
-    "Todos passa a mostrar mesmo tudo, incluindo o Ruído, cada email com a etiqueta do que é",
-    "Todos passa a mostrar mesmo tudo, incluindo o Ruído (cada email com a etiqueta do que é)",
-    "A vista Ruído continua à parte"
+    "Os emails das pastas excluídas passam a aparecer em Ignorados e em Todos, com a etiqueta Ignorado · pasta, sem IA",
+    "Contam nos não lidos como no Outlook",
+    "Não ignorar passa a conversa a pendente"
   ],
   "engine": "e3022b26dd38"
 }
