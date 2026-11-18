@@ -1,13 +1,9 @@
 {
-  "version": "0.2.0",
+  "version": "0.2.1",
   "published": "2026-11-18",
   "notes": [
-    "✓ Feito e Feito e arquivar tiram logo a conversa dos Não lidos",
-    "A etiqueta com o que é cada email (Pendente, Feito, Convite, Ruído...) fica à direita, em destaque e com cor",
-    "Na versão do Claude, abrir no Outlook abre no browser",
-    "✓ Feito (e Feito e arquivar) tira logo a conversa dos Não lidos, e no Outlook fica lida depois dos segundos para desfazer",
-    "A etiqueta com o que é cada email (Pendente, Feito, Convite, Ruído...) passa para a direita, em destaque e com cor",
-    "Na versão do Claude, abrir um email, um convite, um rascunho, um anexo ou o Pedir ajuda abre no browser (antes podia abrir numa janela embutida, que o Outlook recusava com \"refused to connect\")"
+    "Nos pendentes, a etiqueta à direita diz em que ponto estão: Em curso, Respondido ou À espera de resposta, cada um com a sua cor",
+    "Nos pendentes, a etiqueta à direita diz em que ponto estão: Em curso, Respondido ou À espera de resposta (cada um com a sua cor), e deixa de repetir isso nas marcas da linha"
   ],
   "engine": "e3022b26dd38"
 }
