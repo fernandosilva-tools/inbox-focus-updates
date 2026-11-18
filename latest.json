@@ -1,9 +1,8 @@
 {
-  "version": "0.2.4",
+  "version": "0.2.5",
   "published": "2026-11-18",
   "notes": [
-    "Um cancelamento de reunião marcado como Não é ruído passa mesmo a pendente",
-    "+ Nota junta o pedido que escreveste como etiqueta Por aplicar, e o Regenerar aplica todos de uma vez"
+    "Nos cancelamentos de reunião há o botão Remover do calendário: tira a reunião do teu calendário sem enviar nada e marca como feito"
   ],
   "engine": "e3022b26dd38"
 }
