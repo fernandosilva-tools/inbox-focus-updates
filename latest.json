@@ -1,10 +1,9 @@
 {
-  "version": "0.1.98",
+  "version": "0.1.99",
   "published": "2026-11-18",
   "notes": [
-    "Com a IA automática até ao nível 4, as P4 de informação (em CC) também ganham resumo",
-    "Mudar o nível ou os dias da IA automática nas Configurações atualiza logo, sem esperar pelo próximo Atualizar",
-    "Mudar \"IA automática até ao nível\" ou \"só para os últimos N dias\" nas Configurações atualiza logo, e as conversas que passam a entrar ganham o resumo sem esperar pelo próximo Atualizar"
+    "Convites fechados e reuniões que já passaram têm ações: ✓ Feito, marcar como lido e Tratar como email (quando a conversa continuou com perguntas, passa a email normal, com IA)",
+    "Nas vistas que misturam estados (Por tratar, Fechados, Todos e pesquisa) cada email tem uma etiqueta a dizer o que é (Pendente, Feito, Convite, Ruído...)"
   ],
   "engine": "e3022b26dd38"
 }
