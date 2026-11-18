@@ -1,12 +1,14 @@
 {
-  "version": "0.1.96",
-  "published": "2026-11-17",
+  "version": "0.1.97",
+  "published": "2026-11-18",
   "notes": [
-    "Resumo do último email em destaque: numa conversa com vários emails, a linha mostra o que diz o último email recebido e, ao abrir, o resumo da conversa fica por baixo",
-    "O que já foi lido fica guardado se a análise parar a meio (Cancelar ou erro)",
-    "Com a fonte Microsoft 365, os anexos abrem no Outlook na web",
-    "Mensagens de progresso traduzidas em inglês",
-    "O número de P1 no ícone do separador já não impede a lista de carregar"
+    "No topo, ✉ por ler mostra quantos emails estão por ler, contados como no Outlook (em todas as vistas), e clicar mostra-os",
+    "Juntar uma nota ou uma tarefa a um email põe-no Em curso",
+    "Com a fonte Microsoft 365, se o browser bloquear a janela do rascunho aparece o botão Abrir no Outlook",
+    "No topo, ✉ por ler mostra quantos emails estão por ler, contados como no Outlook (em todas as vistas, também convites, fechados e Ruído), e clicar mostra-os",
+    "O filtro Não lidos continua a contar só os pendentes da vista",
+    "Juntar uma nota ou uma tarefa a um email põe-no Em curso (tira-se no botão Em curso",
+    "Desfazer a nota ou a tarefa também o tira)"
   ],
-  "engine": "6f03ebf2dd7a"
+  "engine": "e3022b26dd38"
 }
