@@ -1,14 +1,10 @@
 {
-  "version": "0.1.97",
+  "version": "0.1.98",
   "published": "2026-11-18",
   "notes": [
-    "No topo, ✉ por ler mostra quantos emails estão por ler, contados como no Outlook (em todas as vistas), e clicar mostra-os",
-    "Juntar uma nota ou uma tarefa a um email põe-no Em curso",
-    "Com a fonte Microsoft 365, se o browser bloquear a janela do rascunho aparece o botão Abrir no Outlook",
-    "No topo, ✉ por ler mostra quantos emails estão por ler, contados como no Outlook (em todas as vistas, também convites, fechados e Ruído), e clicar mostra-os",
-    "O filtro Não lidos continua a contar só os pendentes da vista",
-    "Juntar uma nota ou uma tarefa a um email põe-no Em curso (tira-se no botão Em curso",
-    "Desfazer a nota ou a tarefa também o tira)"
+    "Com a IA automática até ao nível 4, as P4 de informação (em CC) também ganham resumo",
+    "Mudar o nível ou os dias da IA automática nas Configurações atualiza logo, sem esperar pelo próximo Atualizar",
+    "Mudar \"IA automática até ao nível\" ou \"só para os últimos N dias\" nas Configurações atualiza logo, e as conversas que passam a entrar ganham o resumo sem esperar pelo próximo Atualizar"
   ],
   "engine": "e3022b26dd38"
 }
