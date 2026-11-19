@@ -1,15 +1,14 @@
 {
-  "version": "0.2.14",
+  "version": "0.2.15",
   "published": "2026-11-19",
   "notes": [
-    "Abrir um email fica mais rápido (a conversa carrega enquanto a IA começa a ler e, no Claude, as mensagens leem-se de uma vez)",
-    "Os P1/P2 antigos também têm resumo na análise",
-    "Quando a IA muda a prioridade aparece P2 (era P3): ajustada pela IA",
-    "A página de pedidos analisa logo ao carregar em Pedir análise",
-    "Abrir um email fica mais rápido e a mudança de prioridade pela IA passa a ver-se: a conversa carrega ao mesmo tempo que o texto antigo se relê",
-    "Na versão do Claude os corpos das mensagens da conversa leem-se de uma vez",
-    "Os P1/P2 antigos também têm IA automática na análise",
-    "Quando a IA muda o nível aparece \"P2 (era P3): ajustada pela IA\" (pedido rmwnqhz1edlq11)"
+    "Nova configuração Quando a IA analisa cada email: logo ao ler, só quando abro o email, ou só quando carrego em Regenerar",
+    "Na página de pedidos, quem fez um pedido pode editá-lo e o estado de cada pedido avança sozinho quando o Claude o analisa, faz ou publica",
+    "Na página de pedidos, quem fez um pedido pode editar o título e a descrição em \"Os meus pedidos\", enquanto não está Feito nem Rejeitado e sem o Claude a tratar dele",
+    "O cartão mostra \"(editado)\", os gestores veem a marca editado, o texto original e um aviso quando a resposta do Claude é anterior à edição (pedido rmwns33uvilqaq)",
+    "Nova configuração \"Quando a IA analisa cada email\": logo ao ler (como até agora), só quando abro o email, ou só quando carrego em Regenerar",
+    "Nos dois últimos o Analisar/Atualizar deixa de chamar a IA, e no modo Regenerar marcar tarefas ou juntar notas também não",
+    "Vale para a app do PC, a versão do Claude e a demo (pedido rmwnrzxpagf33r)"
   ],
   "engine": "e3022b26dd38"
 }
