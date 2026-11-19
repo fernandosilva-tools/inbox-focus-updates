@@ -1,9 +1,15 @@
 {
-  "version": "0.2.13",
+  "version": "0.2.14",
   "published": "2026-11-19",
   "notes": [
-    "O botão Sugestão ou problema passa a abrir a página de pedidos já com a versão e a app preenchidas, também dentro do Claude",
-    "Na página de pedidos, os gestores podem pedir ao Claude a análise ou a execução de um pedido"
+    "Abrir um email fica mais rápido (a conversa carrega enquanto a IA começa a ler e, no Claude, as mensagens leem-se de uma vez)",
+    "Os P1/P2 antigos também têm resumo na análise",
+    "Quando a IA muda a prioridade aparece P2 (era P3): ajustada pela IA",
+    "A página de pedidos analisa logo ao carregar em Pedir análise",
+    "Abrir um email fica mais rápido e a mudança de prioridade pela IA passa a ver-se: a conversa carrega ao mesmo tempo que o texto antigo se relê",
+    "Na versão do Claude os corpos das mensagens da conversa leem-se de uma vez",
+    "Os P1/P2 antigos também têm IA automática na análise",
+    "Quando a IA muda o nível aparece \"P2 (era P3): ajustada pela IA\" (pedido rmwnqhz1edlq11)"
   ],
   "engine": "e3022b26dd38"
 }
