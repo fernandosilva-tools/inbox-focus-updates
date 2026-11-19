@@ -1,10 +1,11 @@
 {
-  "version": "0.2.16",
+  "version": "0.2.17",
   "published": "2026-11-19",
   "notes": [
-    "Na página de pedidos, as listas abrem só com os pedidos abertos (ainda não feitos nem rejeitados)",
-    "O botão Todos mostra o resto",
-    "Página de pedidos: botão Abertos (por omissão) em Todos os pedidos e filtro Abertos/Todos em Os meus pedidos, para ver só os pedidos ainda não feitos nem rejeitados (pedido rmwnt8apzopi1v)"
+    "Na página de pedidos, o pedido que tens aberto já não desaparece da lista quando muda de estado ou de prioridade (por exemplo ao pedir a análise)",
+    "Sai da lista quando o fechas",
+    "Página de pedidos: o pedido aberto não desaparece da lista quando muda de estado ou de prioridade (por exemplo ao pedir análise com o filtro Novo)",
+    "Mostra a nota \"Já não corresponde ao filtro\" e sai quando o fechas (pedido rmwnuhnfgcx8j0)"
   ],
   "engine": "e3022b26dd38"
 }
