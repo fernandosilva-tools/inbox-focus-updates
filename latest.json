@@ -1,9 +1,8 @@
 {
-  "version": "0.2.9",
+  "version": "0.2.10",
   "published": "2026-11-19",
   "notes": [
-    "Convites e cancelamentos nunca vão para o Ruído: um cancelamento ainda no calendário fica pendente com Remover do calendário, e um que já saiu vai para Convites fechados com a nota já fora do calendário",
-    "Na versão do Claude os convites recentes passam a ser reconhecidos no calendário"
+    "Na versão do Claude, a lista de pastas para arquivar passa a incluir as pastas mais fundas (até ao 12.º nível), como as dos projetos dentro da pasta da equipa"
   ],
   "engine": "e3022b26dd38"
 }
