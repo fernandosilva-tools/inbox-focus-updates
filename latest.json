@@ -1,8 +1,9 @@
 {
-  "version": "0.2.12",
+  "version": "0.2.13",
   "published": "2026-11-19",
   "notes": [
-    "O contador por ler passa a contar só emails de conversas que aparecem como por ler na lista, por isso deixa de dizer 1 por ler com a lista vazia"
+    "O botão Sugestão ou problema passa a abrir a página de pedidos já com a versão e a app preenchidas, também dentro do Claude",
+    "Na página de pedidos, os gestores podem pedir ao Claude a análise ou a execução de um pedido"
   ],
   "engine": "e3022b26dd38"
 }
