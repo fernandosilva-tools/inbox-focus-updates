@@ -1,9 +1,16 @@
 {
-  "version": "0.2.20",
+  "version": "0.2.21",
   "published": "2026-11-19",
   "notes": [
-    "Na página de pedidos há dois estados novos, Analisado e Em execução, e dá para marcar um pedido como sendo sobre a própria página de pedidos",
-    "Página de pedidos: novos estados \"Analisado\" e \"Em execução\", e pedidos marcados como sendo sobre a própria página (pedido rmwnvgwtk4drko)"
+    "Há um grupo Watchlist na barra da esquerda, por baixo de Follow-up, com as conversas que estás a acompanhar",
+    "Watchlist: grupo próprio na barra da esquerda (por baixo de Follow-up) com as conversas na watchlist por tratar, contagem, texto quando está vazio, ajuda PT/EN e guia (pedido rmwnxet02qhh1f)",
+    "Página de pedidos: quem pediu vê os pedidos à espera da sua resposta (etiqueta no cartão, contagem no separador, filtro, faixa, ordenação e abertura em Os meus pedidos)",
+    "O gestor vê \"à espera de quem pediu\" (pedido rmwnx856tg2nn1)",
+    "Página de pedidos: \"Onde aconteceu\" tem uma linha de ajuda para cada opção e há um tipo novo, Questão, respondido por mensagem e que passa a Feito com a resposta do gestor (pedido rmwnwnwivyclqx)",
+    "Página de pedidos: Pedir execução fica desativado até haver uma resposta do Claude mais recente do que a última edição do pedido (pedido rmwnwro92yjrzs)",
+    "Página de pedidos: filtro por quem pediu na lista Todos e o gestor pode mudar o tipo do pedido (pedido rmwnwmeocxsoxs)",
+    "Página de pedidos: as mensagens novas da conversa saltam à vista",
+    "Página de pedidos: conversa entre quem fez o pedido e os gestores (pedido rmwnw4gvilmgsr)"
   ],
   "engine": "e3022b26dd38"
 }
