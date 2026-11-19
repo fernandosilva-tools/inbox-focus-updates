@@ -1,11 +1,9 @@
 {
-  "version": "0.2.18",
+  "version": "0.2.19",
   "published": "2026-11-19",
   "notes": [
-    "Novo botão Watchlist: marca as conversas que queres ir acompanhando",
-    "Ficam com a etiqueta watchlist e passam para o fim do seu nível de prioridade",
-    "Watchlist: botão para pôr uma conversa a acompanhar",
-    "Leva a etiqueta \"watchlist\" e passa para o fim do seu nível de prioridade (pedido rmwns11zzybyh3)"
+    "Na página de pedidos, um pedido deixa de aparecer como novo logo que o abres",
+    "Página de pedidos: um pedido deixa de aparecer como novo (ou editado) logo que o abres, em vez de só na visita seguinte (pedido rmwnus5s6smwwj)"
   ],
   "engine": "e3022b26dd38"
 }
