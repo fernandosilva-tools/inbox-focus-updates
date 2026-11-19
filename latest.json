@@ -1,9 +1,9 @@
 {
-  "version": "0.2.7",
+  "version": "0.2.8",
   "published": "2026-11-19",
   "notes": [
-    "Nas Configurações escolhes o que fazer às pastas excluídas: mostrar em Ignorados (sem IA) ou não as ler de todo",
-    "Na versão do Claude, arquivar passa a encontrar todas as pastas (o Microsoft 365 só listava 10 de cada vez) e avisa logo se a pasta não existir"
+    "Ao arquivar, as pastas aparecem numa lista com scroll que filtra pelo que escreves (também dentro do Claude)",
+    "Deixam de aparecer os Itens Eliminados, Rascunhos e Lixo"
   ],
   "engine": "e3022b26dd38"
 }
