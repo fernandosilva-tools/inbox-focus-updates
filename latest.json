@@ -1,11 +1,11 @@
 {
-  "version": "0.2.17",
+  "version": "0.2.18",
   "published": "2026-11-19",
   "notes": [
-    "Na página de pedidos, o pedido que tens aberto já não desaparece da lista quando muda de estado ou de prioridade (por exemplo ao pedir a análise)",
-    "Sai da lista quando o fechas",
-    "Página de pedidos: o pedido aberto não desaparece da lista quando muda de estado ou de prioridade (por exemplo ao pedir análise com o filtro Novo)",
-    "Mostra a nota \"Já não corresponde ao filtro\" e sai quando o fechas (pedido rmwnuhnfgcx8j0)"
+    "Novo botão Watchlist: marca as conversas que queres ir acompanhando",
+    "Ficam com a etiqueta watchlist e passam para o fim do seu nível de prioridade",
+    "Watchlist: botão para pôr uma conversa a acompanhar",
+    "Leva a etiqueta \"watchlist\" e passa para o fim do seu nível de prioridade (pedido rmwns11zzybyh3)"
   ],
   "engine": "e3022b26dd38"
 }
