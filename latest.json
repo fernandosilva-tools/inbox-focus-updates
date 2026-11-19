@@ -1,8 +1,9 @@
 {
-  "version": "0.2.6",
-  "published": "2026-11-18",
+  "version": "0.2.7",
+  "published": "2026-11-19",
   "notes": [
-    "Os convites e os cancelamentos de reunião têm um ícone de calendário por baixo da prioridade: azul por responder, cinzento já tratados, com um × se foram cancelados"
+    "Nas Configurações escolhes o que fazer às pastas excluídas: mostrar em Ignorados (sem IA) ou não as ler de todo",
+    "Na versão do Claude, arquivar passa a encontrar todas as pastas (o Microsoft 365 só listava 10 de cada vez) e avisa logo se a pasta não existir"
   ],
   "engine": "e3022b26dd38"
 }
