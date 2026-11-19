@@ -1,9 +1,9 @@
 {
-  "version": "0.2.8",
+  "version": "0.2.9",
   "published": "2026-11-19",
   "notes": [
-    "Ao arquivar, as pastas aparecem numa lista com scroll que filtra pelo que escreves (também dentro do Claude)",
-    "Deixam de aparecer os Itens Eliminados, Rascunhos e Lixo"
+    "Convites e cancelamentos nunca vão para o Ruído: um cancelamento ainda no calendário fica pendente com Remover do calendário, e um que já saiu vai para Convites fechados com a nota já fora do calendário",
+    "Na versão do Claude os convites recentes passam a ser reconhecidos no calendário"
   ],
   "engine": "e3022b26dd38"
 }
