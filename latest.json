@@ -1,8 +1,8 @@
 {
-  "version": "0.2.11",
+  "version": "0.2.12",
   "published": "2026-11-19",
   "notes": [
-    "Novo botão Sugestão ou problema no topo: abre a página de pedidos no Claude, com a versão já preenchida, para reportar problemas ou sugerir melhorias com imagens"
+    "O contador por ler passa a contar só emails de conversas que aparecem como por ler na lista, por isso deixa de dizer 1 por ler com a lista vazia"
   ],
   "engine": "e3022b26dd38"
 }
