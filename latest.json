@@ -1,9 +1,9 @@
 {
-  "version": "0.2.19",
+  "version": "0.2.20",
   "published": "2026-11-19",
   "notes": [
-    "Na página de pedidos, um pedido deixa de aparecer como novo logo que o abres",
-    "Página de pedidos: um pedido deixa de aparecer como novo (ou editado) logo que o abres, em vez de só na visita seguinte (pedido rmwnus5s6smwwj)"
+    "Na página de pedidos há dois estados novos, Analisado e Em execução, e dá para marcar um pedido como sendo sobre a própria página de pedidos",
+    "Página de pedidos: novos estados \"Analisado\" e \"Em execução\", e pedidos marcados como sendo sobre a própria página (pedido rmwnvgwtk4drko)"
   ],
   "engine": "e3022b26dd38"
 }
