@@ -1,10 +1,9 @@
 {
-  "version": "0.2.26",
+  "version": "0.2.27",
   "published": "2026-11-20",
   "notes": [
-    "As mensagens anteriores copiadas no fim do email passam a aparecer também nos emails que já estavam na app antes da atualização",
-    "Histórico copiado: ao abrir um email lido com uma versão antiga, a conversa volta a carregar depois de reler o corpo (antes ficava sem as mensagens anteriores copiadas)",
-    "Só vale a resposta do pedido mais recente da conversa. No Graph o histórico vem do corpo completo (o uniqueBody não o traz). Testes"
+    "A resposta sugerida passa a respeitar a língua que pedes, como Em PT/PT ou in English, mesmo quando o email está noutra língua",
+    "A resposta sugerida passa a respeitar a língua que pedes (\"Em PT/PT\", \"in English\", \"traduz para inglês\"): vai toda nessa língua, mesmo com o email ou o rascunho noutra. Testes"
   ],
   "engine": "e3022b26dd38"
 }
