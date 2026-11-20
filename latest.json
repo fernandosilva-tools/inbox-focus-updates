@@ -1,12 +1,11 @@
 {
-  "version": "0.2.24",
+  "version": "0.2.25",
   "published": "2026-11-20",
   "notes": [
-    "Teams e GitHub na análise passam a ser a pedido: nas Configurações escolhes Desligado, Perguntar ou Sempre",
-    "Ao abrir um email respondes Não, Sim ou Sempre e vês o que foi encontrado, e o Atualizar fica rápido",
-    "Teams e GitHub na análise passam a ser a pedido: modo Desligado, Perguntar ou Sempre. Em Perguntar, ao abrir um email aparece \"Outras fontes\" com Não (não volta a perguntar nessa conversa até chegar email novo), Sim (procura e refaz a análise) e Sempre",
-    "Em Sempre procura ao abrir o email ou no ↻. A análise automática de todas as conversas nunca procura (usa só o que já se encontrou). O detalhe mostra o que foi encontrado, com links e Procurar outra vez. Configurações antigas ligadas passam a Perguntar. Na versão do Claude só há ",
-    "Teams na análise (versão do Claude): lê o autor de cada mensagem no formato do connector Microsoft 365 (from.displayName), para pôr à frente as de quem escreveu o email"
+    "Os emails que trazem mensagens anteriores copiadas no fim já não as perdem: aparecem fechadas no fim do email e entram no resumo",
+    "Emails com mensagens anteriores copiadas no fim: deixam de se perder. Ficam guardadas à parte, aparecem fechadas no fim do email (Mensagens anteriores (copiadas no email)), a contagem diz '+ histórico copiado' e a IA lê-as para o resumo (mais curtas quando já há histórico na caix",
+    "Teste da demo: o seguimento numa conversa já respondida aceita o argumento search_sources (Teams/GitHub a pedido)",
+    "Versão do Claude: o GitHub deixa de aparecer na ajuda e nas Configurações (só há Teams nesta versão)"
   ],
   "engine": "e3022b26dd38"
 }
