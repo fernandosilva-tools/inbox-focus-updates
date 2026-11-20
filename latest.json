@@ -1,11 +1,10 @@
 {
-  "version": "0.2.25",
+  "version": "0.2.26",
   "published": "2026-11-20",
   "notes": [
-    "Os emails que trazem mensagens anteriores copiadas no fim já não as perdem: aparecem fechadas no fim do email e entram no resumo",
-    "Emails com mensagens anteriores copiadas no fim: deixam de se perder. Ficam guardadas à parte, aparecem fechadas no fim do email (Mensagens anteriores (copiadas no email)), a contagem diz '+ histórico copiado' e a IA lê-as para o resumo (mais curtas quando já há histórico na caix",
-    "Teste da demo: o seguimento numa conversa já respondida aceita o argumento search_sources (Teams/GitHub a pedido)",
-    "Versão do Claude: o GitHub deixa de aparecer na ajuda e nas Configurações (só há Teams nesta versão)"
+    "As mensagens anteriores copiadas no fim do email passam a aparecer também nos emails que já estavam na app antes da atualização",
+    "Histórico copiado: ao abrir um email lido com uma versão antiga, a conversa volta a carregar depois de reler o corpo (antes ficava sem as mensagens anteriores copiadas)",
+    "Só vale a resposta do pedido mais recente da conversa. No Graph o histórico vem do corpo completo (o uniqueBody não o traz). Testes"
   ],
   "engine": "e3022b26dd38"
 }
