@@ -1,14 +1,12 @@
 {
-  "version": "0.2.23",
+  "version": "0.2.24",
   "published": "2026-11-20",
   "notes": [
-    "Nova opção nas Configurações: a IA pode juntar à análise as mensagens do Teams e as issues e pull requests do GitHub sobre o mesmo assunto do email (desligada por omissão",
-    "Ligada, pede a conta Microsoft, um token do GitHub e onde procurar)",
-    "Teams e GitHub na análise da IA: opção nas Configurações (desligada por omissão) que junta ao resumo, às tarefas e à resposta as mensagens do Teams e as issues e pull requests do GitHub sobre o mesmo assunto do email",
-    "Ligada, as contas são obrigatórias (conta Microsoft para o Teams, também com o Outlook deste PC",
-    "Token do GitHub no Gestor de Credenciais",
-    "Onde procurar no GitHub). Na versão do Claude usa os connectors Microsoft 365 e GitHub",
-    "Na demo as mensagens são inventadas (pedido rmwnswva4hefru)"
+    "Teams e GitHub na análise passam a ser a pedido: nas Configurações escolhes Desligado, Perguntar ou Sempre",
+    "Ao abrir um email respondes Não, Sim ou Sempre e vês o que foi encontrado, e o Atualizar fica rápido",
+    "Teams e GitHub na análise passam a ser a pedido: modo Desligado, Perguntar ou Sempre. Em Perguntar, ao abrir um email aparece \"Outras fontes\" com Não (não volta a perguntar nessa conversa até chegar email novo), Sim (procura e refaz a análise) e Sempre",
+    "Em Sempre procura ao abrir o email ou no ↻. A análise automática de todas as conversas nunca procura (usa só o que já se encontrou). O detalhe mostra o que foi encontrado, com links e Procurar outra vez. Configurações antigas ligadas passam a Perguntar. Na versão do Claude só há ",
+    "Teams na análise (versão do Claude): lê o autor de cada mensagem no formato do connector Microsoft 365 (from.displayName), para pôr à frente as de quem escreveu o email"
   ],
   "engine": "e3022b26dd38"
 }
