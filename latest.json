@@ -1,9 +1,14 @@
 {
-  "version": "0.2.22",
-  "published": "2026-11-19",
+  "version": "0.2.23",
+  "published": "2026-11-20",
   "notes": [
-    "O aviso de versão nova deixa de mostrar o que só mudou na página de pedidos",
-    "Notas da versão nova: deixam de aparecer as alterações que só dizem respeito à página de pedidos (filtro na publicação, publish.ps1 e publish_latest.py, e no aviso da app, updates.py) (pedido rmwnxsd3e159xh)"
+    "Nova opção nas Configurações: a IA pode juntar à análise as mensagens do Teams e as issues e pull requests do GitHub sobre o mesmo assunto do email (desligada por omissão",
+    "Ligada, pede a conta Microsoft, um token do GitHub e onde procurar)",
+    "Teams e GitHub na análise da IA: opção nas Configurações (desligada por omissão) que junta ao resumo, às tarefas e à resposta as mensagens do Teams e as issues e pull requests do GitHub sobre o mesmo assunto do email",
+    "Ligada, as contas são obrigatórias (conta Microsoft para o Teams, também com o Outlook deste PC",
+    "Token do GitHub no Gestor de Credenciais",
+    "Onde procurar no GitHub). Na versão do Claude usa os connectors Microsoft 365 e GitHub",
+    "Na demo as mensagens são inventadas (pedido rmwnswva4hefru)"
   ],
   "engine": "e3022b26dd38"
 }
