@@ -1,9 +1,10 @@
 {
-  "version": "0.2.27",
-  "published": "2026-11-20",
+  "version": "0.2.28",
+  "published": "2026-11-24",
   "notes": [
-    "A resposta sugerida passa a respeitar a língua que pedes, como Em PT/PT ou in English, mesmo quando o email está noutra língua",
-    "A resposta sugerida passa a respeitar a língua que pedes (\"Em PT/PT\", \"in English\", \"traduz para inglês\"): vai toda nessa língua, mesmo com o email ou o rascunho noutra. Testes"
+    "Depois de aceitares ou recusares um convite, ele passa a lido na app e no Outlook assim que o calendário confirma a resposta, também quando respondes direto no Outlook",
+    "Convites: quando o calendário confirma a resposta (dada na app ou direto no Outlook), o convite fica lido na app e no Outlook",
+    "Ao carregar em Aceitar/Recusar ainda não. Ajuda e guia. Testes"
   ],
   "engine": "e3022b26dd38"
 }
