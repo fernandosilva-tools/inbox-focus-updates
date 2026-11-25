@@ -1,11 +1,9 @@
 {
-  "version": "0.2.30",
+  "version": "0.2.31",
   "published": "2026-11-25",
   "notes": [
-    "O que escreves na resposta sugerida, nas notas e nos pedidos à IA deixa de se perder quando chega atividade nova ou fechas a app",
-    "A etiqueta tua das tarefas fica junto ao texto",
-    "O que escreves na resposta sugerida (incluindo notas [[ ]]), na linha \"Pede uma alteração\", nas notas + Nota por aplicar e na nota nova deixa de se perder quando chega atividade nova ou fechas a app",
-    "Se a IA fizer uma resposta nova, fica a tua versão com o aviso \"Usar a nova\". A etiqueta \"tua\" das tarefas fica junto ao texto, em vez de numa linha à parte"
+    "A resposta sugerida passa a usar o que vem dos emails relacionados, também quando regeneras uma resposta que editaste, e mostra quando os usa",
+    "Emails relacionados: a resposta sugerida passa a usar o que vem do email relacionado (também ao regenerar a partir de uma resposta editada), o outro email é refeito logo se estiver aberto, e a resposta mostra \"usa 1 email relacionado\". Testes"
   ],
   "engine": "e3022b26dd38"
 }
