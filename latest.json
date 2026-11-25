@@ -1,10 +1,11 @@
 {
-  "version": "0.2.28",
-  "published": "2026-11-24",
+  "version": "0.2.29",
+  "published": "2026-11-25",
   "notes": [
-    "Depois de aceitares ou recusares um convite, ele passa a lido na app e no Outlook assim que o calendário confirma a resposta, também quando respondes direto no Outlook",
-    "Convites: quando o calendário confirma a resposta (dada na app ou direto no Outlook), o convite fica lido na app e no Outlook",
-    "Ao carregar em Aceitar/Recusar ainda não. Ajuda e guia. Testes"
+    "Podes ligar um email a outro (Relacionar com…) e a IA usa o resumo completo de um na análise do outro",
+    "A app também sugere emails do mesmo assunto",
+    "Emails relacionados: no detalhe de um email, \"Relacionar com…\" liga-o a outro (nos dois sentidos) e a IA passa a usar o resumo completo de um (conversa, tarefas e prazos) na análise do outro. A app sugere emails do mesmo assunto, mas só os liga se aceitares",
+    "Remover a ligação tem Desfazer. Opção nas Configurações, ajuda e guia. Testes"
   ],
   "engine": "e3022b26dd38"
 }
