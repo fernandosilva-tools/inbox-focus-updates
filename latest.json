@@ -1,11 +1,11 @@
 {
-  "version": "0.2.29",
+  "version": "0.2.30",
   "published": "2026-11-25",
   "notes": [
-    "Podes ligar um email a outro (Relacionar com…) e a IA usa o resumo completo de um na análise do outro",
-    "A app também sugere emails do mesmo assunto",
-    "Emails relacionados: no detalhe de um email, \"Relacionar com…\" liga-o a outro (nos dois sentidos) e a IA passa a usar o resumo completo de um (conversa, tarefas e prazos) na análise do outro. A app sugere emails do mesmo assunto, mas só os liga se aceitares",
-    "Remover a ligação tem Desfazer. Opção nas Configurações, ajuda e guia. Testes"
+    "O que escreves na resposta sugerida, nas notas e nos pedidos à IA deixa de se perder quando chega atividade nova ou fechas a app",
+    "A etiqueta tua das tarefas fica junto ao texto",
+    "O que escreves na resposta sugerida (incluindo notas [[ ]]), na linha \"Pede uma alteração\", nas notas + Nota por aplicar e na nota nova deixa de se perder quando chega atividade nova ou fechas a app",
+    "Se a IA fizer uma resposta nova, fica a tua versão com o aviso \"Usar a nova\". A etiqueta \"tua\" das tarefas fica junto ao texto, em vez de numa linha à parte"
   ],
   "engine": "e3022b26dd38"
 }
