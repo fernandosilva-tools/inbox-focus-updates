@@ -1,9 +1,10 @@
 {
-  "version": "0.2.31",
-  "published": "2026-11-25",
+  "version": "0.2.32",
+  "published": "2026-11-28",
   "notes": [
-    "A resposta sugerida passa a usar o que vem dos emails relacionados, também quando regeneras uma resposta que editaste, e mostra quando os usa",
-    "Emails relacionados: a resposta sugerida passa a usar o que vem do email relacionado (também ao regenerar a partir de uma resposta editada), o outro email é refeito logo se estiver aberto, e a resposta mostra \"usa 1 email relacionado\". Testes"
+    "Na app em inglês, o aviso de resposta editada passa a aparecer em inglês, e o Sugestão abre a página de pedidos na língua da app",
+    "Na app em inglês, o aviso de resposta editada (\"Use the new one\") passa a aparecer em inglês",
+    "O Sugestão abre a página de pedidos na língua da app"
   ],
   "engine": "e3022b26dd38"
 }
